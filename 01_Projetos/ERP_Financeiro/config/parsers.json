@@ -1,0 +1,36 @@
+{
+  "BR_Generico": {
+    "currency": "BRL",
+    "delimiter": ";",
+    "encoding": "utf-8-sig",
+    "decimal": ",",
+    "thousands": ".",
+    "date_format": "%d/%m/%Y",
+    "date_col": "Data",
+    "description_col": "Descrição",
+    "amount_col": "Valor"
+  },
+  "EU_Generico": {
+    "currency": "EUR",
+    "delimiter": ",",
+    "encoding": "utf-8-sig",
+    "decimal": ".",
+    "date_format": "%Y-%m-%d",
+    "date_col": "Date",
+    "description_col": "Description",
+    "amount_col": "Amount"
+  },
+  "Exemplo_Debito_Credito": {
+    "currency": "BRL",
+    "delimiter": ";",
+    "encoding": "latin-1",
+    "skiprows": 0,
+    "decimal": ",",
+    "thousands": ".",
+    "date_format": "%d/%m/%Y",
+    "date_col": "Data",
+    "description_col": "Histórico",
+    "debit_col": "Débito",
+    "credit_col": "Crédito"
+  }
+}

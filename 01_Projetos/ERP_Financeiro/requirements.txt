@@ -1,0 +1,4 @@
+pandas>=2.1
+streamlit>=1.40
+python-dotenv>=1.0
+# Apenas para rodar os testes: pip install pytest
